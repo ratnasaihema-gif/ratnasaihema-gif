@@ -1,5 +1,9 @@
 # Hi there, I'm Ratna Sai Hema 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=B.Tech+ECE+Student;Hardware+%26+Software+Developer;Python+%7C+C+%7C+C%2B%2B;Machine+Learning+Enthusiast;Open+to+Internships" />
+</p>
+
 ## 👩‍💻 About Me
 - 🎓 B.Tech in Electronics & Communication Engineering (ECE)
 - 💻 Passionate about Hardware & Software Development
