@@ -72,4 +72,10 @@
 
 ---
 
+## 📊 GitHub Statistics
+
+![Ratna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ratnasaihema-gif&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ratnasaihema-gif&layout=compact&theme=tokyonight&hide_border=true)
+
 ⭐ Thanks for visiting my profile!
