@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi there, I'm Ratna Sai Hema 👋
 
-<!--
-**ratnasaihema-gif/ratnasaihema-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
+- 🎓 B.Tech in Electronics & Communication Engineering (ECE)
+- 💻 Passionate about Hardware & Software Development
+- 🌱 Currently learning Data Structures & Algorithms, Machine Learning, and Embedded Systems
+- 🎯 Looking for Hardware & Software Internship Opportunities
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+### Programming Languages
+- C
+- C++
+- Python
+- SQL
+
+### Core Skills
+- Data Structures & Algorithms
+- Machine Learning
+- Embedded Systems
+- Problem Solving
+- Git & GitHub
+
+### Web Technologies
+- HTML
+- CSS
+
+---
+
+## 🚀 Projects
+- 🔹 Cyber Attack Detection using Machine Learning
+- 🔹 Python Mini Projects
+- 🔹 DSA Practice
+- 🔹 Embedded Systems Projects
+
+---
+
+## 📚 Currently Learning
+- Advanced DSA
+- C++
+- Machine Learning
+- Embedded Systems
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/ratna-saihema-a29372326
+- Email: ratnasaihema@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
