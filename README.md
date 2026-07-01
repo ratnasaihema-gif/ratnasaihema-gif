@@ -25,16 +25,43 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+---
 
+## 🚀 Featured Projects
 
+### 🔹 ML Cyber Attack Detection
+Machine learning model to classify network traffic as **normal** or **malicious** using the **NSL-KDD dataset**.
+
+**Tech Stack:** Python, Scikit-learn, Random Forest, Pandas, Jupyter Notebook
+
+🔗 Repository: https://github.com/ratnasaihema-gif/ML-Cyber-Attack-Detection
 
 ---
 
-## 🚀 Projects
-- 🔹 Cyber Attack Detection using Machine Learning
-- 🔹 Python Mini Projects
-- 🔹 Embedded Systems Projects
+### 🔹 STM32 Weather System
+Temperature and humidity monitoring system using **STM32**, **DHT22 sensor**, and **LCD display**.
 
+**Tech Stack:** C++, STM32, Embedded Systems
+
+🔗 Repository: https://github.com/ratnasaihema-gif/STM32-Weather-System
+
+---
+
+### 🔹 Accident Detection System
+Smart accident detection and alert system using **STM32**, **MPU6050 sensor**, and **GSM module**.
+
+**Tech Stack:** C++, STM32, Embedded Systems
+
+🔗 Repository: https://github.com/ratnasaihema-gif/Accident-Detection-System
+
+---
+
+### 🔹 Personal Portfolio
+A responsive personal portfolio website showcasing my skills, projects, certifications, and contact details.
+
+**Tech Stack:** HTML, CSS
+
+🔗 Repository: https://github.com/ratnasaihema-gif/portfolio
 ---
 
 ## 📚 Currently Learning
