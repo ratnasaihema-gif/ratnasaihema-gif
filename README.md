@@ -44,7 +44,6 @@
 ## 🚀 Projects
 - 🔹 Cyber Attack Detection using Machine Learning
 - 🔹 Python Mini Projects
-- 🔹 DSA Practice
 - 🔹 Embedded Systems Projects
 
 ---
