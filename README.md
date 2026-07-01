@@ -54,7 +54,6 @@
 - Embedded Systems
 
 ---
----
 
 ## 📊 GitHub Stats
 
