@@ -61,6 +61,14 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ratnasaihema-gif&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
 ## 📫 Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/ratna-saihema-a29372326
