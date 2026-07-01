@@ -21,22 +21,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### Programming Languages
-- C
-- C++
-- Python
-- SQL
 
-### Core Skills
-- Data Structures & Algorithms
-- Machine Learning
-- Embedded Systems
-- Problem Solving
-- Git & GitHub
 
-### Web Technologies
-- HTML
-- CSS
 
 ---
 
@@ -55,27 +41,27 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
-
-## 📫 Connect with Me
-
-- LinkedIn: https://www.linkedin.com/in/ratna-saihema-a29372326
-- Email: ratnasaihema@gmail.com
-
----
-
 ## 📊 GitHub Statistics
 
 ![Ratna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ratnasaihema-gif&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ratnasaihema-gif&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ratnasaihema-gif&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ratna%20Sai%20Hema-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ratna-saihema-a29372326)
+
+[![Gmail](https://img.shields.io/badge/Gmail-ratnasaihema%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ratnasaihema@gmail.com)
+
 
 ⭐ Thanks for visiting my profile!
