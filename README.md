@@ -59,9 +59,8 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ratna%20Sai%20Hema-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ratna-saihema-a29372326)
-
-[![Gmail](https://img.shields.io/badge/Gmail-ratnasaihema%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ratnasaihema@gmail.com)
-
+- LinkedIn: https://www.linkedin.com/in/ratna-saihema-a29372326
+- Email: ratnasaihema@gmail.com
+  
 
 ⭐ Thanks for visiting my profile!
